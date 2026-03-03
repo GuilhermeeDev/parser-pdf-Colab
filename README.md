@@ -7,7 +7,7 @@ Ao abrir o projeto como pasta raiz no seu ambiente, execute o arquivo `setup.bat
 .\setup.bat
 ```
 
-Em seguida ative o ambiente virtual python criado pelo script
+Adicione os arquivos .pdf na pasta input e em seguida ative o ambiente virtual python criado pelo script
 
 Powershell
 ```

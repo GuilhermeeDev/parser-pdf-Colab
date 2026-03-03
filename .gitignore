@@ -1,0 +1,8 @@
+input/
+/input
+output/
+/output
+venv/
+/venv
+.env
+/.env
